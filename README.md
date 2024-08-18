@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samirulcodes
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS as well as DSA using JAVA
+- 🌱 I’m currently learning JS,react.
 - 📫 How to reach me ...insta -Samirul Islam
 
 <!---
