@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @samirulcodes
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JS,react.
+- 🌱 I’m currently learning backend - nodejs-Express , MongoDB.
+- ✨ Frontend Developer
 - 📫 How to reach me ... samislam192@gmail.com
 
 <!---
