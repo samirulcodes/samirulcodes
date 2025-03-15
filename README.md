@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @samirulcodes
-- 👀 I’m interested in web development , exploring data analyst
-- 🌱 I’m currently learning - nodejs-Express , MongoDB, excel,powerBI,Python
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning - nodejs-Express , MongoDB
 - ✨ Frontend Developer
+- ✨ Data Analysis
 - 📫 How to reach me ... samislam192@gmail.com
 
 <!---
